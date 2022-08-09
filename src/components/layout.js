@@ -12,9 +12,11 @@ const Layout = ({ location, title, children }) => {
 
   if (isRootPath) {
     headerSiteText = (
-      <h1 className="main-heading">
-        <Link to="/">{title}</Link>
-      </h1>
+      <>
+        <h1 className="main-heading">
+          <Link to="/">{title}</Link>
+        </h1>
+      </>
     );
   } else {
     headerSiteText = (
@@ -31,9 +33,6 @@ const Layout = ({ location, title, children }) => {
           <header className="global-header">
             {headerSiteText}
             <div className="header-actions">
-              <Link className="header-nav-link" to="/pages/about/">
-                About
-              </Link>
               <button className="toggle-button header-nav-link"
                 onClick={e => toggleTheme(theme === 'light' ? 'dark' : 'light')}
               >
@@ -45,10 +44,7 @@ const Layout = ({ location, title, children }) => {
           <footer className="d-flex">
             <div className="copyright-text">
               Copyright © {new Date().getFullYear()},&nbsp;
-              <a href="http://abhaynikam.me/">Abhay Nikam</a>
-            </div>
-            <div className="footer-icon-group">
-              <FooterSocialIcons />
+              <a href="https://alvaroduran.com/">Álvaro Durán</a>
             </div>
           </footer>
         </div>

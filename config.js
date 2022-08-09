@@ -1,22 +1,22 @@
 'use strict';
 
 module.exports = {
-  url: `https://abhaynikam.github.io/gatsby-nice-blog/`,
+  url: `https://aofa.alvaroduran.com/`,
   description: `A nice starter blog post boilerplate template built using Gatsby.`,
   pathPrefix: '/',
-  title: `Nice Blogs`,
+  title: `The Architecture of Fintech Applications`,
   disqusShortname: '',
   postsPerPage: 15,
   googleAnalyticsId: '',
   useKatex: false,
   author: {
-    name: `Abhay Nikam`,
-    summary: `, Ruby on Rails and Frontend developer from Pune, India.`,
+    name: `Álvaro Durán`,
+    summary: ``,
     social: {
-      twitter: `abhaynikam13`,
-      github: `abhaynikam`,
-      email: `nikam.abhay1@gmail.com`,
-      linkedin: `abhaynikam`,
+      twitter: ``,
+      github: ``,
+      email: ``,
+      linkedin: ``,
       facebook: ``,
       instagram: ``,
     },

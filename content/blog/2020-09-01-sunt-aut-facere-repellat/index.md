@@ -1,11 +1,18 @@
 ---
-title: Sunt aut facere repellat provident occaecati excepturi optio reprehenderit
-date: "2020-09-01"
+title: Buying Power
+date: "2021-07-22"
 template: post
 ---
 
-quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto
+The year is 2005. 1st January. Someone in Turkey is about to make virtually every currency trading system in the world blow up. He's not a hacker, and he has no deep expertise on trading systems. He's not even going to need a computer to do so: he's simply going to fix a problem that he's got before him, much like a cowboy developer is going to push a quick change to master.
 
-Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.
+That man is Turkey's Prime Minister, Recep Tayyip Erdoğan.
 
-Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.
+Inflation has been one of the biggest problems in Turkey for decades. Since the late 1960s, the Turkish lira has experienced a yearly depreciation of around 38%, limping from one currency crisis to the next. The underlying problem seems to be its Prime Minister stubbornness, pressuring the central bank authorities to keep interest rates low, presumably in order to keep financing the great infrastructure projects that Erdoğan is very fond of. As a result, the leak of internal reserves via a persistent deficit is pushing prices up, and currency value down.
+
+In December 2003, the Grand National Assembly of Turkey passed a law which switched the old turkish lira for a new lira at a rate of 1,000,000 to 1. They essentially gerrymander their way out of being the country with the world's least valued currency unit by slashing the last 6 decimal places of every price tag in the country.
+
+In late December 2003, the Grand National Assembly of Turkey passed a law that allowed for the removal of six zeroes from the currency, and the creation of the new lira. It was introduced on 1 January 2005, replacing the previous lira (which remained valid in circulation until the end of 2005) at a rate of 1 new lira = 1,000,000 old lira. 
+
+
+In 2005, the Securities and Exchange Commission introduced Rule 612, also known as the Sub-Penny Rule. Rule 612 requires the minimum price increments for stocks over $1.00 to be $0.01 while stocks under $1.00 can be quoted in increments of $0.0001.2

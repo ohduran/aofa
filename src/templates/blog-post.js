@@ -72,8 +72,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       )}
 
       {isPostTemplate && (<DiscussionEmbed {...disqusConfig} />)}
-
-      {isPostTemplate && (<footer><Bio /></footer>)}
     </Layout>
   )
 }

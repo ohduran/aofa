@@ -1,9 +1,18 @@
 ---
-title: "About me"
+title: "About"
 template: "page"
 ---
-Aenean suscipit metus nec efficitur convallis. Cras a arcu eu augue imperdiet imperdiet convallis nec ipsum. Cras facilisis, nisi nec porta molestie, quam mauris dapibus lacus, vitae vestibulum nunc sem id libero. Mauris non leo sed purus luctus interdum. Sed maximus finibus magna, tempus egestas risus rutrum eu. Fusce sed ante nunc. Aliquam erat volutpat. Suspendisse sollicitudin ac urna id convallis. Maecenas ac augue nibh.
 
-Pellentesque sit amet lorem felis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas eu massa faucibus, posuere diam eget, dignissim erat. Suspendisse sit amet ultrices lectus. Maecenas nec nisl aliquet, rhoncus ligula sed, varius nibh. Vivamus pharetra lacus quis risus finibus, vitae viverra lectus tincidunt. Duis leo quam, bibendum vitae arcu nec, mollis imperdiet urna. Pellentesque at orci placerat augue congue blandit. Duis eget quam dictum, aliquam augue eu, placerat dolor. Vestibulum cursus odio tortor, ac ultricies ex laoreet a. Nulla facilisi.
+> Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well-usually programs they wrote themselves-and never study the great programs of history.
+>
+> — [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
 
-Vivamus pellentesque sollicitudin nisi sed fringilla. Etiam ut mi vitae purus sollicitudin dictum et at ipsum. Curabitur tincidunt vehicula mi, vitae vestibulum purus lacinia non. Ut placerat, urna lacinia egestas elementum, orci velit placerat elit, in consectetur augue eros sed dui. Mauris at sem odio. Duis pulvinar neque ac felis fringilla tristique.
+Don't get me wrong, I liked the AOSA essays very much. You should read them! However, there's something missing in those essays, and that is actual business problems. I spent a lot of time reading Michael Bayer's essay on [SQLAlchemy](https://www.aosabook.org/en/sqlalchemy.html), but I could not see how it applied to my job as a software developer in a fintech startup. I knew *something* could be learnt, but it wasn't concrete enough for me to make the connection.
+
+At first I thought it was just me, but soon enough I found that many of my peers did not have a good understanding of the business problems they were trying to solve with software, and were repeating "one another's mistakes", much like those to whom the authors of AOSA were addressing their writings.
+
+It seems to me that the industry has already moved on to fancy solutions (blockchain, any?) without a careful study of how legacy financial technology has addressed business needs. Weirdly enough, the consequence of this is that the blockchain ecosystem is simply repeating the errors of the past rather than creating new, innovative solutions to current and future problems.
+
+My goal is to help change that. I'm going to walk you through many interesting problems that pop up when trying to build fintech applications, those that support payments, investments, credit scores and more, and I aim at diving deep into potential solutions, the trade-offs involved, and unexplored avenues.
+
+In doing so, I will do my best in instill you an ounce of respect for the technology of the past, while at the same time get you covered on many aspects of known solutions to business problems, so that we can "build on one another's successes".
