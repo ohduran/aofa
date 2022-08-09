@@ -16,3 +16,6 @@ In late December 2003, the Grand National Assembly of Turkey passed a law that a
 
 
 In 2005, the Securities and Exchange Commission introduced Rule 612, also known as the Sub-Penny Rule. Rule 612 requires the minimum price increments for stocks over $1.00 to be $0.01 while stocks under $1.00 can be quoted in increments of $0.0001.2
+
+
+asdfasdf
